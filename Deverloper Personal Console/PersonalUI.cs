@@ -12,7 +12,7 @@ namespace Deverloper_Personal_Console
         private DeveloperRepo _contentRepo = new DeveloperRepo();
 
         public void Run()
-        {
+        {   
             Menu();
         }
         //Menu 
